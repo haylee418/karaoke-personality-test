@@ -102,162 +102,162 @@ const characterResults = {
     "ESFP": {
         name: "Buboy",
         karaokeBehavior: "노래방에서 신나게 분위기를 주도하는 편! 리더 타입",
-        image: "buboy.png",
+        image: "buboy.PNG",
         description: "활발하고 에너지 넘치는 성격, 리더십이 강한 타입으로 댄스와 힙합을 즐김",
         encouragement: "오늘도 무대의 주인공은 당신이에요! 마음껏 즐기세요!",
         songRecommendation: "SB19 - GENTO",
-        compatibleType: "bongbongie.png",
-        incompatibleType: "kador.png"
+        compatibleType: "bongbongie.PNG",
+        incompatibleType: "kador.PNG"
     },
     "ESTJ": {
         name: "Buboy",
         karaokeBehavior: "친구들을 리드하며 강렬한 곡으로 분위기를 주도하는 편! 리더 타입",
-        image: "buboy.png",
+        image: "buboy.PNG",
         description: "활발하고 에너지 넘치는 성격, 리더십이 강한 타입으로 댄스와 힙합을 즐김",
         encouragement: "열정적인 리더의 모습, 당신이 있어 더욱 빛나요!",
         songRecommendation: "Shanti Dope - Nadarang",
-        compatibleType: "buboy.png",
-        incompatibleType: "catty.png"
+        compatibleType: "buboy.PNG",
+        incompatibleType: "catty.PNG"
     },
     "ISFP": {
         name: "Pandy",
         karaokeBehavior: "조용하게 감정을 표현하는 편! 감성 타입",
-        image: "pandy.png",
+        image: "pandy.PNG",
         description: "조용하고 감성적인 성격, 발라드와 재즈 같은 감성적인 곡을 선호",
         encouragement: "조용한 감성으로 모두를 감동시켜 보세요!",
         songRecommendation: "December Avenue - Sa Ngalan Ng Pag-Ibig",
-        compatibleType: "hanario.png",
-        incompatibleType: "bongbongie.png"
+        compatibleType: "hanario.PNG",
+        incompatibleType: "bongbongie.PNG"
     },
     "ISFJ": {
         name: "Pandy",
         karaokeBehavior: "따뜻한 감성을 전달하는 편! 감성 타입",
-        image: "pandy.png",
+        image: "pandy.PNG",
         description: "조용하고 감성적인 성격, 발라드와 재즈 같은 감성적인 곡을 선호",
         encouragement: "따뜻한 마음으로 부르는 노래는 더 특별해요!",
         songRecommendation: "Moira Dela Torre - Tagpuan",
-        compatibleType: "kador.png",
-        incompatibleType: "buboy.png"
+        compatibleType: "kador.PNG",
+        incompatibleType: "buboy.PNG"
     },
     "INFJ": {
         name: "Hanario",
         karaokeBehavior: "발라드와 클래식을 부르며 차분하게 감정을 표현하는 편! 감성 타입",
-        image: "hanario.png",
+        image: "hanario.PNG",
         description: "차분하고 감성적인 성격, 클래식과 발라드를 좋아하는 감성적 캐릭터",
         encouragement: "깊은 감성으로 노래하는 당신의 무대는 특별합니다!",
         songRecommendation: "Moira Dela Torre - Paubaya",
-        compatibleType: "pandy.png",
-        incompatibleType: "torri.png"
+        compatibleType: "pandy.PNG",
+        incompatibleType: "torri.PNG"
     },
     "ISTJ": {
         name: "Hanario",
         karaokeBehavior: "진중하게 발라드를 부르며 무대를 채우는 편! 신중 타입",
-        image: "hanario.png",
+        image: "hanario.PNG",
         description: "차분하고 신중한 성격, 클래식과 발라드를 좋아하는 감성적 캐릭터",
         encouragement: "진중하게 부르는 당신의 목소리, 모두를 감동시킬 거예요!",
         songRecommendation: "Regine Velasquez - Pangako",
-        compatibleType: "pandy.png",
-        incompatibleType: "bongbongie.png"
+        compatibleType: "pandy.PNG",
+        incompatibleType: "bongbongie.PNG"
     },
     "INTJ": {
         name: "Kador",
         karaokeBehavior: "강렬한 곡으로 무대를 장악하는 편! 분석 타입",
-        image: "kador.png",
+        image: "kador.PNG",
         description: "분석적이고 계획적인 성격, 강렬한 EDM과 락을 선호",
         encouragement: "분석적인 시선으로 무대를 지배하세요!",
         songRecommendation: "IV of Spades - Mundo",
-        compatibleType: "pakpak.png",
-        incompatibleType: "buboy.png"
+        compatibleType: "pakpak.PNG",
+        incompatibleType: "buboy.PNG"
     },
     "ISTP": {
         name: "Kador",
         karaokeBehavior: "독창적인 곡을 선택하여 감각적인 무대를 만드는 편! 분석 타입",
-        image: "kador.png",
+        image: "kador.PNG",
         description: "분석적이고 계획적인 성격, 강렬한 EDM과 락을 선호",
         encouragement: "독창적인 감각으로 무대를 주도해보세요!",
         songRecommendation: "Shanti Dope - Amatz",
-        compatibleType: "pakpak.png",
-        incompatibleType: "torri.png"
+        compatibleType: "pakpak.PNG",
+        incompatibleType: "torri.PNG"
     },
     "ESTP": {
         name: "Torri",
         karaokeBehavior: "댄스곡으로 신나게 무대를 즐기는 편! 활동 타입",
-        image: "torri.png",
+        image: "torri.PNG",
         description: "호기심 많고 활동적인 성격, 최신 힙합과 댄스를 즐기는 타입",
         encouragement: "에너지 넘치는 무대를 만들어 모두와 함께 즐겨요!",
         songRecommendation: "Al James - Pa-Umaga",
-        compatibleType: "bongbongie.png",
-        incompatibleType: "hanario.png"
+        compatibleType: "bongbongie.PNG",
+        incompatibleType: "hanario.PNG"
     },
     "ENFJ": {
         name: "King Pogi",
         karaokeBehavior: "모두와 함께 즐길 수 있는 곡을 주로 부르는 편! 리더 타입",
-        image: "king_pogi.png",
+        image: "king_pogi.PNG",
         description: "장난기 많고 창의적인 성격, 디스코와 팝을 즐기며 분위기를 주도하는 캐릭터",
         encouragement: "언제나 긍정적인 에너지로 무대를 빛내주세요!",
         songRecommendation: "Ben&Ben - Leaves",
-        compatibleType: "kuyabear.png",
-        incompatibleType: "kador.png"
+        compatibleType: "kuyabear.PNG",
+        incompatibleType: "kador.PNG"
     },
     "ENFP": {
         name: "King Pogi",
         karaokeBehavior: "디스코와 팝으로 분위기를 이끄는 편! 활동 타입",
-        image: "king_pogi.png",
+        image: "king_pogi.PNG",
         description: "장난기 많고 창의적인 성격, 디스코와 팝을 즐기며 분위기를 주도하는 캐릭터",
         encouragement: "춤추며 노래하는 당신의 무대는 언제나 특별해요!",
         songRecommendation: "Sarah Geronimo - Tala",
-        compatibleType: "pakpak.png",
-        incompatibleType: "pandy.png"
+        compatibleType: "pakpak.PNG",
+        incompatibleType: "pandy.PNG"
     },
     "ENTP": {
         name: "Bongbongie",
         karaokeBehavior: "논리적인 선곡으로 신나는 분위기를 만드는 편! 논리 타입",
-        image: "bongbongie.png",
+        image: "bongbongie.PNG",
         description: "유쾌하고 논리적인 성격, 신나는 음악을 선호하며 분석적인 고블린 캐릭터",
         encouragement: "즐거운 마음으로 모두와 함께 신나는 무대를 만들어 보세요!",
         songRecommendation: "Parokya Ni Edgar - Harana",
-        compatibleType: "kuyabear.png",
-        incompatibleType: "pandy.png"
+        compatibleType: "kuyabear.PNG",
+        incompatibleType: "pandy.PNG"
     },
     "ENTJ": {
         name: "Bongbongie",
         karaokeBehavior: "사람들을 이끄는 리더 타입으로, 무대를 장악하는 편! 리더 타입",
-        image: "bongbongie.png",
+        image: "bongbongie.PNG",
         description: "자신감 있고 주도적인 성격으로, 사람들을 이끄는 리더입니다.",
         encouragement: "당신의 리더십으로 멋진 무대를 이끌어주세요!",
         songRecommendation: "Gloc-9 - Sirena",
-        compatibleType: "hanario.png",
-        incompatibleType: "pandy.png"
+        compatibleType: "hanario.PNG",
+        incompatibleType: "pandy.PNG"
     },
     "INFP": {
         name: "Catty",
         karaokeBehavior: "감성적인 발라드로 감정을 표현하는 편! 감성 타입",
-        image: "catty.png",
+        image: "catty.PNG",
         description: "수줍고 감성적인 성격, 발라드와 어쿠스틱을 좋아함",
         encouragement: "수줍은 감성으로 부르는 노래, 모두를 감동시킬 거예요!",
         songRecommendation: "Ben&Ben - Kathang Isip",
-        compatibleType: "hanario.png",
-        incompatibleType: "torri.png"
+        compatibleType: "hanario.PNG",
+        incompatibleType: "torri.PNG"
     },
     "ESFJ": {
         name: "Kuyabear",
         karaokeBehavior: "모두가 함께 부를 수 있는 곡을 선택하는 편! 협력 타입",
-        image: "kuyabear.png",
+        image: "kuyabear.PNG",
         description: "따뜻하고 협력적인 성격, 모두가 함께 부를 수 있는 곡을 선호",
         encouragement: "따뜻한 마음으로 모두가 함께하는 무대를 만들어 보세요!",
         songRecommendation: "Sarah Geronimo - Tala",
-        compatibleType: "catty.png",
-        incompatibleType: "kador.png"
+        compatibleType: "catty.PNG",
+        incompatibleType: "kador.PNG"
     },
     "INTP": {
         name: "Pakpak",
         karaokeBehavior: "독창적인 곡으로 무대를 주도하는 편! 신비 타입",
-        image: "pakpak.png",
+        image: "pakpak.PNG",
         description: "독창적이고 신비로운 성격, 실험적이고 독창적인 인디 음악을 즐김",
         encouragement: "당신만의 독창적인 무대로 모두를 놀라게 해보세요!",
         songRecommendation: "Zild - Kyusi",
-        compatibleType: "kador.png",
-        incompatibleType: "buboy.png"
+        compatibleType: "kador.PNG",
+        incompatibleType: "buboy.PNG"
     }
 };
 
@@ -331,8 +331,8 @@ function showResult() {
        document.getElementById("character-name").innerText = result.name;
        document.getElementById("character-description").innerText = result.description;
        document.getElementById("karaoke-behavior").innerText = result.karaokeBehavior;
-       document.getElementById("compatible-types").innerText = result.compatibleType.replace('.png', '');
-       document.getElementById("incompatible-types").innerText = result.incompatibleType.replace('.png', '');
+       document.getElementById("compatible-types").innerText = result.compatibleType.replace('.PNG', '');
+       document.getElementById("incompatible-types").innerText = result.incompatibleType.replace('.PNG', '');
        document.getElementById("song-recommendation").innerText = result.songRecommendation;
        document.getElementById("encouragement-message").innerText = result.encouragement;
        document.getElementById("character-image").src = result.image;
